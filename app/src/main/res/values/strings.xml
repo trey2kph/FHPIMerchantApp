@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FHPI Merchant App</string>
+    <string name="app_log">http://115.85.14.155/merchbio/reglog</string>
+    <string name="app_trans">http://115.85.14.155/merchbio/regtrans</string>
+    <string name="app_versioncode">6</string>
+    <string name="app_versionnum">1.5</string>
+    <string name="employee_id">Merchant ID</string>
+    <string name="password">Password</string>
+    <string name="noti_channel_id">transnoti</string>
+    <string name="title_activity_list">Transaction History</string>
+</resources>
